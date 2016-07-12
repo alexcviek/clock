@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	background-color: #ACE6F6;
+	text-align: center;
+}
+h1{
+	font-family: Lobster;
+	font-size: 5em;
+	color: #406661;
+	text-shadow: 3px 3px 5px #F5F5F5;
+}
+#txt{
+	color: #F5F5F5;
+	font-size: 8em;
+	font-family: Anton;
+	letter-spacing: 10px;
+	margin: 50px auto 0;
+	padding: 0 50px;
+	width: 45%;
+	background-color: #52575D;
+	text-shadow: 3px 1px 1px black;
+
+}
